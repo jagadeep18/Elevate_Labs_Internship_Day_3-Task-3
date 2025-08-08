@@ -83,28 +83,7 @@ The scan report was exported as a **PDF** for documentation and further review.
 - Learned about common misconfigurations and security flaws
 - Practiced cybersecurity reporting and documentation
 
----
 
-## 📸 Screenshots
-
-| Interface | Screenshot |
-|----------|------------|
-| Scan Dashboard | ![Scan Dashboard](./images/image_1.jpg) |
-| Scan Configuration | ![Scan Config](./images/image_2.jpg) |
-| Detailed Results | ![Scan Results](./images/image_3.jpg) |
-
----
-
-## 📬 Contact
-
-For questions or suggestions, reach out via:
-
-**👤 Name**: Gorantla Jagadeep  
-**🎓 University**: Malla Reddy University  
-**📧 Email**: *[your-email@example.com]*  
-**🔐 Aspiring Cybersecurity Analyst**
-
----
 
 ## 📄 License
 
